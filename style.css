@@ -1,0 +1,4 @@
+body {
+    color: hsl(0, 0%, 88%);
+    background: radial-gradient(at bottom, hsl(0, 0%, 14%), hsl(276, 14%, 35%));
+}
