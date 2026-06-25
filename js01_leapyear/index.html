@@ -14,7 +14,7 @@
       const r = document.getElementById("result");
 
       const caution = () => {
-        const y = prompt("西暦念を入れてください。");
+        const y = prompt("西暦年を入れてください。");
         if (calc_leap(y) == true) {
           r.textContent = y + "年はうるう年";
         } else {
